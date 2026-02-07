@@ -1,0 +1,14 @@
+/* CSS rules go here */
+
+/* Selectors target HTML elements */
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+
